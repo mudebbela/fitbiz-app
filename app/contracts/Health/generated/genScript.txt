@@ -1,0 +1,4 @@
+web3j generate solidity -b Health.bin -a ./Health.abi -o ../../../src/main/java/ -p com.mudebbela.fitbiz
+
+~/.solc-select/artifacts/^Clc-0.8.13 Health.sol --bin --abi --optimize -o ./generated/
+

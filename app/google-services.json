@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865509290475",
+    "project_id": "fitbiz-26d3d",
+    "storage_bucket": "fitbiz-26d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865509290475:android:0d21e81ef77544943f69ae",
+        "android_client_info": {
+          "package_name": "com.mudebbela.fitbiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865509290475-noln3hl0bc19aiivpu7uhmjv6bnr8d82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2tDeEeGe1v6gAqhi-GvjDIGr8D1KqP7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865509290475-noln3hl0bc19aiivpu7uhmjv6bnr8d82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
